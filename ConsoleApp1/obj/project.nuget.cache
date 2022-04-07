@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "orzI/FZBL2z7KSir+c3yY2OnzOJydVZaqUmUrIK+2V5DgF1WS9QhXnbQx5dScl4mJsHiSvFwsKnEECR6UC0czg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LITHIUM\\Desktop\\Yeni klasör\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LITHIUM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
